@@ -1,2 +1,2 @@
 # rust-gui
-RsutでGUI
+RustでGUI

@@ -5,12 +5,12 @@ name = "rust-gui"
 
 # Dioxus App Default Platform
 # desktop, web
-default_platform = "web"
+default_platform = "desktop"
 
 # `build` & `serve` dist path
 out_dir = "dist"
 
-# resource (assets) file folder
+# assets file folder
 asset_dir = "assets"
 
 [web.app]
